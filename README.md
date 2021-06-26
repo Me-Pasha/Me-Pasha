@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science, literauture and talking with different people :)
 - 🌱 I’m currently learning, well, back to html.
 - 💞️ I’m looking to collaborate on whatever helps me learn more
-- 📫 How to reach me: Twitter: @abdul.muqusit
+- 📫 How to reach me: Twitter: @abdulmuqusit 
 - ✨️ I hope you may have a wonderful day. You are loved!
 
 <!---
