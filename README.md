@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Me-Pasha. Just, call me Pasha
-- 👀 I’m interested in Computer Science, literauture and talking with different people :)
-- 🌱 I’m currently learning, well, back to html.
+- 👋 Hi, I’m Abdul Muqusit Pasha. Just, call me Pasha :)
+- 👀 I’m interested in Computer Science, literature and getting to know people 
+- 🌱 I’m currently learning, well, back to HTML and CSS
 - 💞️ I’m looking to collaborate on whatever helps me learn more
 - 📫 How to reach me: Twitter: @abdulmuqusit 
 - ✨️ I hope you may have a wonderful day. You are loved!
