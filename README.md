@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning, well, back to HTML and CSS
 - 💞️ I’m looking to collaborate on whatever helps me learn more
 - 📫 How to reach me: Twitter: @abdulmuqusit 
-- ✨️ I hope you may have a wonderful day. You are loved!
+- ✨️ I hope you may have a wonderful day!
 
 <!---
 Me-Pasha/Me-Pasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
